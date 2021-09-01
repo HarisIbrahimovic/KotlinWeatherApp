@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="todo">TODO</string>
+    <string name="press_to_set_city">Press to set city</string>
+</resources>
